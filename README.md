@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vero</h1>
-<h3 align="center">Software Developer / Backend Engineer</h3>
+<h3 align="center">Backend Engineer / Software Developer</h3>
 
-- 🌱 I’m currently learning **Full-stack**
 
 - 📫 How to reach me **vero.gconesa@gmail.com**
 
